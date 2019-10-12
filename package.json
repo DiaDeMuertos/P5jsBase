@@ -1,0 +1,17 @@
+{
+  "name": "p5jsbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:http-server": "http-server src",
+    "start:live-server": "live-server src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "live-server": "^1.2.1"
+  }
+}
